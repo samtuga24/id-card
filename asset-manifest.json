@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/id-card/static/css/main.a3ea4ecc.css",
+    "main.js": "/id-card/static/js/main.43cffb67.js",
+    "static/js/787.3687d65a.chunk.js": "/id-card/static/js/787.3687d65a.chunk.js",
+    "static/media/verified.jpg": "/id-card/static/media/verified.6ac41be1be8d263adb2b.jpg",
+    "static/media/phma-logo.png": "/id-card/static/media/phma-logo.0f635b095985e1c7ee6a.png",
+    "static/media/coffee.jpg": "/id-card/static/media/coffee.00e5920d0a7a5ce3f4d3.jpg",
+    "static/media/sign.png": "/id-card/static/media/sign.320b6f8209f016c567b5.png",
+    "static/media/logo.svg": "/id-card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/id-card/index.html",
+    "main.a3ea4ecc.css.map": "/id-card/static/css/main.a3ea4ecc.css.map",
+    "main.43cffb67.js.map": "/id-card/static/js/main.43cffb67.js.map",
+    "787.3687d65a.chunk.js.map": "/id-card/static/js/787.3687d65a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ea4ecc.css",
+    "static/js/main.43cffb67.js"
+  ]
+}
